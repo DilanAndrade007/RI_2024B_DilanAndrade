@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus>
+  <document id="1">
+    <title>El aumento de la telemedicina para el tratamiento de condiciones de salud crónicas.</title>
+    <keywords>telemedicina, salud crónica, tratamiento, tecnología médica</keywords>
+    <author>Dr. Juan Pérez</author>
+    <date>2023-01-15</date>
+  </document>
+  <document id="2">
+    <title>Cómo la nutrición balanceada afecta el rendimiento académico y la salud mental en estudiantes.</title>
+    <keywords>nutrición, rendimiento académico, salud mental, estudiantes</keywords>
+    <author>Dra. María López</author>
+    <date>2023-02-10</date>
+  </document>
+  <document id="3">
+    <title>Estudio sobre cómo las relaciones de amistad contribuyen al bienestar de los estudiantes en el campus.</title>
+    <keywords>amistad, bienestar estudiantil, campus, relaciones sociales</keywords>
+    <author>Miguel Rodríguez</author>
+    <date>2023-03-05</date>
+  </document>
+  <document id="4">
+    <title>El rol de las bibliotecas universitarias en el fomento de la investigación académica.</title>
+    <keywords>bibliotecas universitarias, investigación, academia, recursos</keywords>
+    <author>Lucía Martínez</author>
+    <date>2023-04-20</date>
+  </document>
+  <document id="5">
+    <title>Cómo los espacios verdes en los campus universitarios pueden mejorar la concentración y reducir el estrés.</title>
+    <keywords>espacios verdes, campus universitario, concentración, estrés</keywords>
+    <author>Carlos Fernández</author>
+    <date>2023-05-15</date>
+  </document>
+  <document id="6">
+    <title>La influencia de la cultura universitaria en los hábitos saludables y el bienestar de los estudiantes.</title>
+    <keywords>cultura universitaria, hábitos saludables, bienestar, estudiantes</keywords>
+    <author>Ana Sánchez</author>
+    <date>2023-06-10</date>
+  </document>
+  <document id="7">
+    <title>La importancia del sueño en la salud mental y el rendimiento académico en jóvenes universitarios.</title>
+    <keywords>sueño, salud mental, rendimiento académico, universitarios</keywords>
+    <author>Javier Torres</author>
+    <date>2023-07-25</date>
+  </document>
+  <document id="8">
+    <title>La influencia del apoyo familiar y social en el bienestar emocional de los estudiantes universitarios.</title>
+    <keywords>apoyo familiar, apoyo social, bienestar emocional, estudiantes</keywords>
+    <author>Laura Gómez</author>
+    <date>2023-08-30</date>
+  </document>
+  <document id="9">
+    <title>El impacto de los hábitos de lectura en el desarrollo cognitivo en jóvenes y adultos.</title>
+    <keywords>hábitos de lectura, desarrollo cognitivo, jóvenes, adultos</keywords>
+    <author>Fernando Ruiz</author>
+    <date>2023-09-18</date>
+  </document>
+  <document id="10">
+    <title>Avances en la tecnología para la medicina preventiva y su aplicación en jóvenes.</title>
+    <keywords>tecnología médica, medicina preventiva, jóvenes, avances tecnológicos</keywords>
+    <author>Elena Navarro</author>
+    <date>2023-10-05</date>
+  </document>
+  <document id="11">
+    <title>Impacto de la práctica regular de ejercicio en la reducción del estrés académico en estudiantes universitarios.</title>
+    <keywords>ejercicio, estrés académico, estudiantes universitarios, salud</keywords>
+    <author>Diego Castro</author>
+    <date>2023-11-12</date>
+  </document>
+  <document id="12">
+    <title>El papel del mindfulness y la meditación en la reducción de la ansiedad en estudiantes universitarios.</title>
+    <keywords>mindfulness, meditación, ansiedad, estudiantes universitarios</keywords>
+    <author>Sofía Vega</author>
+    <date>2023-12-01</date>
+  </document>
+  <document id="13">
+    <title>Estrategias para mejorar la salud mental en estudiantes universitarios: el rol del apoyo psicológico y los grupos de estudio en el campus.</title>
+    <keywords>salud mental, estudiantes universitarios, apoyo psicológico, grupos de estudio</keywords>
+    <author>Marcos Ortiz</author>
+    <date>2024-01-10</date>
+  </document>
+  <document id="14">
+    <title>Cómo el acceso a servicios de salud mental en la universidad puede mejorar el desempeño académico.</title>
+    <keywords>salud mental, desempeño académico, servicios universitarios, estudiantes</keywords>
+    <author>Paula Morales</author>
+    <date>2024-02-15</date>
+  </document>
+  <document id="15">
+    <title>Beneficios de las actividades extracurriculares para el bienestar emocional y social de los estudiantes.</title>
+    <keywords>actividades extracurriculares, bienestar emocional, social, estudiantes</keywords>
+    <author>José Herrera</author>
+    <date>2024-03-05</date>
+  </document>
+  <document id="16">
+    <title>El papel de los laboratorios de innovación educativa en el desarrollo de competencias tecnológicas.</title>
+    <keywords>laboratorios de innovación, competencias tecnológicas, educación, desarrollo</keywords>
+    <author>Andrea Díaz</author>
+    <date>2024-04-20</date>
+  </document>
+  <document id="17">
+    <title>Tendencias actuales en el diseño de campus para fomentar la interacción y colaboración.</title>
+    <keywords>diseño de campus, interacción, colaboración, tendencias</keywords>
+    <author>Sergio Muñoz</author>
+    <date>2024-05-15</date>
+  </document>
+  <document id="18">
+    <title>Diferencias en el bienestar académico entre estudiantes que trabajan y aquellos que solo estudian.</title>
+    <keywords>bienestar académico, estudiantes que trabajan, comparación, rendimiento</keywords>
+    <author>Isabel Flores</author>
+    <date>2024-06-10</date>
+  </document>
+  <document id="19">
+    <title>Factores de riesgo y estrategias para prevenir el agotamiento académico en estudiantes universitarios.</title>
+    <keywords>agotamiento académico, factores de riesgo, prevención, estudiantes universitarios</keywords>
+    <author>Ricardo Ramos</author>
+    <date>2024-07-25</date>
+  </document>
+  <document id="20">
+    <title>El impacto de la tecnología y el uso de redes sociales en la calidad del sueño en estudiantes.</title>
+    <keywords>tecnología, redes sociales, calidad del sueño, estudiantes</keywords>
+    <author>Valeria Castillo</author>
+    <date>2024-08-30</date>
+  </document>
+  <document id="21">
+    <title>Investigación sobre el impacto de las tecnologías verdes en los edificios de las universidades.</title>
+    <keywords>tecnologías verdes, edificios universitarios, impacto ambiental, sostenibilidad</keywords>
+    <author>Daniel Medina</author>
+    <date>2024-09-18</date>
+  </document>
+  <document id="22">
+    <title>Estudio sobre el uso de bicicletas compartidas en universidades para mejorar la movilidad.</title>
+    <keywords>bicicletas compartidas, movilidad, universidades, transporte sostenible</keywords>
+    <author>Patricia Reyes</author>
+    <date>2024-10-05</date>
+  </document>
+  <document id="23">
+    <title>Cómo la carga de trabajo académico afecta la salud emocional de los estudiantes y qué pueden hacer las universidades para ayudar.</title>
+    <keywords>carga académica, salud emocional, estudiantes, apoyo universitario</keywords>
+    <author>Gonzalo Soto</author>
+    <date>2024-11-12</date>
+  </document>
+  <document id="24">
+    <title>Estrategias para equilibrar vida social y académica en estudiantes de universidades intensivas.</title>
+    <keywords>equilibrio, vida social, académica, estudiantes, estrategias</keywords>
+    <author>Camila Aguilar</author>
+    <date>2024-12-01</date>
+  </document>
+  <document id="25">
+    <title>La relación entre actividades artísticas y el bienestar psicológico en la vida universitaria.</title>
+    <keywords>actividades artísticas, bienestar psicológico, vida universitaria, creatividad</keywords>
+    <author>Adrián Vargas</author>
+    <date>2025-01-10</date>
+  </document>
+  <document id="26">
+    <title>Los beneficios de los programas de becas para la retención de estudiantes en universidades.</title>
+    <keywords>programas de becas, retención de estudiantes, beneficios, universidades</keywords>
+    <author>Teresa Romero</author>
+    <date>2025-02-15</date>
+  </document>
+  <document id="27">
+    <title>El rol de los deportes y la actividad física en la integración social y emocional de los estudiantes.</title>
+    <keywords>deportes, actividad física, integración social, estudiantes</keywords>
+    <author>Alberto Peña</author>
+    <date>2025-03-05</date>
+  </document>
+  <document id="28">
+    <title>Cómo los eventos y talleres de bienestar organizados por la universidad ayudan a reducir el estrés.</title>
+    <keywords>eventos de bienestar, talleres, reducción del estrés, universidad</keywords>
+    <author>Silvia Campos</author>
+    <date>2025-04-20</date>
+  </document>
+  <document id="29">
+    <title>Análisis de los hábitos de sueño y su relación con el rendimiento en exámenes universitarios.</title>
+    <keywords>hábitos de sueño, rendimiento en exámenes, análisis, estudiantes</keywords>
+    <author>Óscar Luna</author>
+    <date>2025-05-15</date>
+  </document>
+  <document id="30">
+    <title>Cómo la inteligencia artificial está mejorando el acceso a servicios médicos en comunidades remotas.</title>
+    <keywords>inteligencia artificial, servicios médicos, comunidades remotas, tecnología</keywords>
+    <author>María Paredes</author>
+    <date>2025-06-10</date>
+  </document>
+</corpus>
